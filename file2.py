@@ -5,5 +5,9 @@ def multiplication(a,b):
     for counter in range(b):
         sum_a += a
     return(sum_a)
+
+def exponent(a,b):
+    c =  a**b
+    return c
     
     
